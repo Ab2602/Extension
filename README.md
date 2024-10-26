@@ -3,6 +3,11 @@
 ## Description
 This is a demo Chrome extension for the ChatGPT Writer coding assignment. It assists users in generating replies for LinkedIn messages. Built using React, TypeScript, Tailwind CSS, and the WXT framework.
 
+## Demo
+Short demo video (<30 seconds) demonstrating the tasks:
+
+https://github.com/user-attachments/assets/ec91f0da-6b39-49a5-b72c-a8f70952f8f7
+
 ## Features
 - AI icon appears when the LinkedIn message input field is focused and disappears when not.
 - Clicking the AI icon opens a center-aligned modal. Clicking outside the modal closes it.
@@ -51,11 +56,6 @@ The extension UI follows the Figma file: [ChatGPT Writer Assignment Figma](https
 - `src/`: Source code for the extension.
 - `public/`: Static assets for the extension.
 - `manifest.json`: Chrome extension configuration.
-
-## Demo
-Short demo video (<30 seconds) demonstrating the tasks:
-
-![Demo](path-to-video)
 
 ## Design Decisions
 1. **WXT Framework**: Used as required.
