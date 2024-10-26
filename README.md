@@ -28,8 +28,8 @@ The extension UI follows the Figma file: [ChatGPT Writer Assignment Figma](https
 ## Installation and Setup
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/linkedin-ai-reply-extension.git
-    cd linkedin-ai-reply-extension
+    git clone https://github.com/Ab2602/Extension.git
+    cd extension
     ```
 2. **Install Dependencies**
     ```bash
